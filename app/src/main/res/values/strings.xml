@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Anime Application</string>
+    <string name="icon_name">JOJO App</string>
+    <string name="Menu">Welcome</string>
+    <string name="jojo_Button">Jo Jo SoundBoard</string>
+    <string name="reZeroButton">ReZero Light Novel</string>
+    <string name="menu_button">Back To Menu</string>
+    <string name="yareyare_button">Yare Yare</string>
+    <string name="tobecontinued_button">To Be Continued</string>
+    <string name="josephShi">Oh No</string>
+    <string name="dioWryy">Dio Wryyy</string>
+    <string name="zaWarudo_Button">Za Warudo</string>
+    <string name="yesJotaroButton">Yes Yes Yes</string>
+    <string name="noJotaroButton">No No No</string>
+    <string name="pillarMenButton">Pillar Men</string>
+    <string name="cherryButton">Lick Cherry</string>
+    <string name="roadRollerButton">Road Roller</string>
+    <string name="hohoButton">Dio Ho Ho</string>
+    <string name="whatDoingButton">What Are You Doing</string>
+    <string name="sonoChiNoButton">Sono Chi No</string>
+    <string name="handButton">The Hand</string>
+    <string name="caesarButton">Ceasar Scream</string>
+    <string name="stroenhiemButton">Stroheim</string>
+    <string name="crazyDiamondButton">Crazy Diamond</string>
+    <string name="boatDanceButton">Whole Another Level</string>
+    <string name="actFreeze">Act 3 Freeze</string>
+    <string name="sleepButton">Zzzzzzzz</string>
+    <string name="clownButton">Get Clowned</string>
+    <string name="jojo_laugh">Jojo Laughing</string>
+    <string name="boingo_laugh">Boingo Laughing</string>
+</resources>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/my_button_bg">
+
+
+            <Button
+                android:id="@+id/jojoBackMenu"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/menu_button" />
+
+
+            <Button
+                android:id="@+id/yareyare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/yareyare_button"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="42dp" />
+
+            <Button
+                android:id="@+id/toBeContinued"
+                android:layout_width="148dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/tobecontinued_button"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="99dp" />
+
+            <Button
+                android:id="@+id/josephShi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/josephShi"
+                android:background="@drawable/my_button_bg"
+                tools:layout_editor_absoluteX="0dp"
+                tools:layout_editor_absoluteY="150dp" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dioWry"
+                android:text="@string/dioWryy"
+                android:background="@drawable/my_button_bg"/>
+
+            <Button
+                android:id="@+id/zaWarudo"
+                android:layout_width="102dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/zaWarudo_Button" />
+
+            <Button
+                android:id="@+id/yesJotaro"
+                android:layout_width="99dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/yesJotaroButton" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/noJotaroButton"
+                android:text="@string/noJotaroButton"
+                android:background="@drawable/my_button_bg"/>
+
+            <Button
+                android:id="@+id/pillarMen"
+                android:layout_width="99dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/pillarMenButton" />
+
+            <Button
+                android:id="@+id/cherryLick"
+                android:layout_width="115dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/cherryButton" />
+
+            <Button
+                android:id="@+id/roadRoller"
+                android:layout_width="111dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/roadRollerButton" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dioHOHO"
+                android:text="@string/hohoButton"
+                android:background="@drawable/my_button_bg"
+                />
+
+            <Button
+                android:id="@+id/whatDoing"
+                android:layout_width="169dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/whatDoingButton" />
+
+            <Button
+                android:id="@+id/sonoButton"
+                android:layout_width="134dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/sonoChiNoButton" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/handButton"
+                android:text="@string/handButton"
+                android:background="@drawable/my_button_bg"
+                />
+
+            <Button
+                android:id="@+id/caesarButton"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/caesarButton" />
+            <Button
+                android:id="@+id/stroButton"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/stroenhiemButton" />
+            <Button
+                android:id="@+id/crazyDiamondButton"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/crazyDiamondButton" />
+            <Button
+                android:id="@+id/boatDanceButton"
+                android:layout_width="147dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/boatDanceButton" />
+
+            <Button
+                android:id="@+id/actFreeze"
+                android:layout_width="134dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/actFreeze" />
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/sleepButton"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/sleepButton"
+                />
+
+            <Button
+                android:id="@+id/clownButton"
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/clownButton" />
+
+            <Button
+                android:id="@+id/jojoLaugh"
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/jojo_laugh" />
+
+            <Button
+                android:id="@+id/boingoLaugh"
+                android:layout_width="124dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/my_button_bg"
+                android:text="@string/boingo_laugh" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</android.support.constraint.ConstraintLayout>
